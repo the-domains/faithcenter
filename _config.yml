@@ -1,7 +1,7 @@
 name: FaithCenter
 favicon: null
-layout_spectrum: 0.4807211854495108
-typography_spectrum: 0.09651499707251787
+layout_spectrum: 0.26406
+typography_spectrum: 0.87298
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.6949047197122127
-  lightness: 0.9439831366762519
-  saturation: 0.35255713295191526
-  rhythmicContrast: 0.4883208251558244
+    - '#ffffff'
+    - '#aa282d'
+    - '#e4c2c2'
+    - '#5f5558'
+    - '#271b1b'
+  brandStrength: 1
+  lightness: 0.3125
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
