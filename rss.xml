@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[FaithCenter]]></title>
-        <description><![CDATA[FaithCenter]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[New Life in Christ]]></title>
+        <description><![CDATA[New Life in Christ]]></description>
+        <link>https://thegrid.ai/faithcenter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 06:07:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 16:40:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/faithcenter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/faithcenter/f3c7f3b2-2800-4c13-9b8d-abe9ac7bbc7c/index.html</link>
+            <guid isPermaLink="false">f3c7f3b2-2800-4c13-9b8d-abe9ac7bbc7c</guid>
+            <pubDate>Wed, 24 Feb 2016 16:40:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Faith Center</p>]]></description>
-            <link>undefinedf8efeebe-1a99-4ad0-b860-839245fe8321/index.html</link>
+            <link>https://thegrid.ai/faithcenter/f8efeebe-1a99-4ad0-b860-839245fe8321/index.html</link>
             <guid isPermaLink="false">f8efeebe-1a99-4ad0-b860-839245fe8321</guid>
             <pubDate>Thu, 17 Dec 2015 06:07:56 GMT</pubDate>
         </item>
