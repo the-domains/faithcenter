@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cultivating Authentic Faith, Hope and Love]]></title>
-        <description><![CDATA[Cultivating Authentic Faith, Hope and Love]]></description>
+        <title><![CDATA[Love, Faith and Hope in Christ]]></title>
+        <description><![CDATA[Love, Faith and Hope in Christ]]></description>
         <link>https://thegrid.ai/faithcenter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 17:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 14:15:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/faithcenter/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Faith Center - Celebration Service]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Mon, 21 Mar 2016 17:42:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Faith Center</p>]]></description>
+            <title><![CDATA[Faith Center]]></title>
+            <description><![CDATA[<article><h1>Faith Center</h1><p>Love, Faith and Hope in Christ</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b6cc800a62b0b73b19691f2e2336b741/noop.gif?input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F067d130b-960c-4400-b120-c7d2921ea3df.gif"></article>]]></description>
             <link>https://thegrid.ai/faithcenter/f8efeebe-1a99-4ad0-b860-839245fe8321/index.html</link>
             <guid isPermaLink="false">f8efeebe-1a99-4ad0-b860-839245fe8321</guid>
-            <pubDate>Thu, 17 Dec 2015 06:07:56 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 14:15:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
